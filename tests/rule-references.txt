@@ -4197,3 +4197,15 @@ https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152
 https://learn.microsoft.com/en-us/defender-endpoint/attack-surface-reduction-rules-reference?view=o365-worldwide#block-process-creations-originating-from-psexec-and-wmi-commands
 https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b
 https://web.archive.org/web/20220830134315/https://content.fireeye.com/apt-41/rpt-apt41/
+https://medium.com/@poudelswachchhanda123/preventing-lnk-and-fakecaptcha-threats-a-system-hardening-approach-2f7b7ed2e493
+https://labs.yarix.com/2025/06/doppelganger-an-advanced-lsass-dumper-with-process-cloning/
+https://www.welivesecurity.com/2020/03/05/guildma-devil-drives-electric/
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+https://reliaquest.com/blog/threat-spotlight-reliaquest-uncovers-vulnerability-behind-sap-netweaver-compromise/
+https://www.anyviewer.com/help/remote-technical-support.html
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-31324
+https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-table-transact-sql?view=sql-server-ver16
+https://news.sophos.com/en-us/2024/08/07/sophos-mdr-hunt-tracks-mimic-ransomware-campaign-against-organizations-in-india/
+https://mp.weixin.qq.com/s/wUoBy7ZiqJL2CUOMC-8Wdg
+https://x.com/Threatlabz/status/1879956781360976155
+https://web.archive.org/web/20230329163438/https://blog.menasec.net/2019/02/threat-hunting-5-detecting-enumeration.html
