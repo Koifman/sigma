@@ -324,6 +324,7 @@ https://bunnyinside.com/?term=f71e8cb9c76a
 https://businessinsights.bitdefender.com/deep-dive-into-a-backdoordiplomacy-attack-a-study-of-an-attackers-toolkit
 https://car.mitre.org/wiki/CAR-2013-05-002
 https://car.mitre.org/wiki/CAR-2016-04-005
+https://cardinalops.com/blog/the-art-of-anomaly-hunting-patterns-detection/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/service_registry_permissions_weakness_check/
 https://center-for-threat-informed-defense.github.io/summiting-the-pyramid/analytics/task_scheduling/
 https://chromeenterprise.google/policies/?policy=DnsOverHttpsMode
@@ -711,6 +712,7 @@ https://en.wikipedia.org/wiki/HTML_Application
 https://en.wikipedia.org/wiki/IExpress
 https://en.wikipedia.org/wiki/List_of_Microsoft_Office_filename_extensions
 https://en.wikipedia.org/wiki/Nohup
+https://en.wikipedia.org/wiki/Right-to-left_override
 https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
 https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
@@ -873,6 +875,7 @@ https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 https://github.com/CCob/MirrorDump
 https://github.com/center-for-threat-informed-defense/adversary_emulation_library/blob/bf62ece1c679b07b5fb49c4bae947fe24c81811f/fin6/Emulation_Plan/Phase1.md
 https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/personality-syscall/README.md
+https://github.com/CheraghiMilad/bypass-Neo23x0-auditd-config/blob/f1c478a37911a5447d5ffcd580f22b167bf3df14/sysinfo-syscall/README.md
 https://github.com/CICADA8-Research/RemoteKrbRelay
 https://github.com/CICADA8-Research/RemoteKrbRelay/blob/19ec76ba7aa50c2722b23359bc4541c0a9b2611c/Exploit/RemoteKrbRelay/Relay/Attacks/RemoteRegistry.cs#L31-L40
 https://github.com/Cisco-Talos/IOCs/tree/80caca039988252fbb3f27a2e89c2f2917f582e0/2022/11
@@ -916,6 +919,7 @@ https://github.com/dotnet/runtime/blob/ee2355c801d892f2894b0f7b14a20e6cc50e0e54/
 https://github.com/dotnet/runtime/blob/f62e93416a1799aecc6b0947adad55a0d9870732/src/coreclr/src/inc/clrconfigvalues.h#L35-L38
 https://github.com/dotnet/runtime/search?p=1&q=COMPlus_&unscoped_q=COMPlus_
 https://github.com/dsnezhkov/TruffleSnout
+https://github.com/dsnezhkov/TruffleSnout/blob/7c2f22e246ef704bc96c396f66fa854e9ca742b9/TruffleSnout/Docs/USAGE.md
 https://github.com/dsnezhkov/TruffleSnout/blob/master/TruffleSnout/Docs/USAGE.md
 https://github.com/EddieIvan01/iox
 https://github.com/ehang-io/nps
@@ -2090,6 +2094,7 @@ https://learn.microsoft.com/en-us/windows-server/administration/windows-commands
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-delete
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/secedit
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/systeminfo
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-backup
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
@@ -2102,6 +2107,7 @@ https://learn.microsoft.com/en-us/windows-server/security/credentials-protection
 https://learn.microsoft.com/en-us/windows/client-management/client-tools/quick-assist#disable-quick-assist-within-your-organization
 https://learn.microsoft.com/en-us/windows/client-management/manage-recall
 https://learn.microsoft.com/en-us/windows/msix/package/unsigned-package
+https://learn.microsoft.com/en-us/windows/package-manager/winget/install#local-install
 https://learn.microsoft.com/en-us/windows/package-manager/winget/source
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/appcontrol-deployment-guide
 https://learn.microsoft.com/en-us/windows/security/application-security/application-control/app-control-for-business/deployment/deploy-appcontrol-policies-with-script
@@ -2747,12 +2753,14 @@ https://ss64.com/osx/dscl.html
 https://ss64.com/osx/dseditgroup.html
 https://ss64.com/osx/dsenableroot.html
 https://ss64.com/osx/osacompile.html
+https://ss64.com/osx/sw_vers.html
 https://ss64.com/osx/sysadminctl.html
 https://ss64.com/ps/foreach-object.html
 https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
 https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker
 https://stackoverflow.com/questions/25892194/does-rails-come-with-a-not-authorized-exception
 https://stackoverflow.com/questions/42442320/ssh-tunnel-to-ngrok-and-initiate-rdp
+https://stackoverflow.com/questions/66011412/how-to-clear-a-event-log-in-powershell-7
 https://stealthbits.com/blog/extracting-password-hashes-from-the-ntds-dit-file/
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 https://steemit.com/utopian-io/@ah101/uac-bypassing-utility
@@ -2771,6 +2779,7 @@ https://strontic.github.io/xcyclopedia/library/pnputil.exe-60EDC5E6BDBAEE441F2E3
 https://strontic.github.io/xcyclopedia/library/setres.exe-0E30E4C09637D7A128A37B59A3BC4D09.html
 https://strontic.github.io/xcyclopedia/library/shell32.dll-65DA072F25DE83D9F83653E3FEA3644D.html
 https://strontic.github.io/xcyclopedia/library/stordiag.exe-1F08FC87C373673944F6A7E8B18CD845.html
+https://strontic.github.io/xcyclopedia/library/vbc.exe-A731372E6F6978CE25617AE01B143351.html
 https://summit.fireeye.com/content/dam/fireeye-www/summit/cds-2018/presentations/cds18-technical-s05-att&cking-fin7.pdf
 https://sumsec.me/2022/CVE-2022-33891%20Apache%20Spark%20shell%20command%20injection.html
 https://superuser.com/questions/150675/how-to-display-password-policy-information-for-a-user-ubuntu
@@ -2915,6 +2924,7 @@ https://tria.ge/211119-gs7rtshcfr/behavioral2 [Lokibot sample from Nov 2021]
 https://tria.ge/220422-1nnmyagdf2/
 https://tria.ge/220422-1pw1pscfdl/
 https://tria.ge/231004-tp8k6sch9t/behavioral2
+https://tria.ge/231212-r1bpgaefar/behavioral2
 https://tria.ge/240123-rapteaahhr/behavioral1
 https://tria.ge/240225-jlylpafb24/behavioral1/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240226-fhbe7sdc39/behavioral1
@@ -3442,6 +3452,7 @@ https://web.archive.org/web/20231230220738/https://www.lunasec.io/docs/blog/log4
 https://wikileaks.org/vault7/#Pandemic
 https://wildptr.io/winrar-cve-2023-40477-poc-new-vulnerability-winrar-security-research/
 https://winaero.com/enable-openssh-server-windows-10/
+https://winaero.com/how-to-delete-scan-with-windows-defender-from-context-menu-in-windows-10/
 https://windows-internals.com/faxing-your-way-to-system/
 https://windows-internals.com/printdemon-cve-2020-1048/
 https://winscripting.blog/2017/05/12/first-entry-welcome-and-uac-bypass/
@@ -3603,6 +3614,7 @@ https://www.elastic.co/guide/en/security/current/linux-restricted-shell-breakout
 https://www.elastic.co/guide/en/security/current/microsoft-iis-connection-strings-decryption.html
 https://www.elastic.co/guide/en/security/current/microsoft-iis-service-account-password-dumped.html
 https://www.elastic.co/guide/en/security/current/potential-invoke-mimikatz-powershell-script.html#potential-invoke-mimikatz-powershell-script
+https://www.elastic.co/guide/en/security/current/potential-non-standard-port-ssh-connection.html
 https://www.elastic.co/guide/en/security/current/potential-remote-desktop-tunneling-detected.html
 https://www.elastic.co/guide/en/security/current/privilege-escalation-via-named-pipe-impersonation.html
 https://www.elastic.co/guide/en/security/current/remote-file-copy-to-a-hidden-share.html
@@ -3682,6 +3694,7 @@ https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-da
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
 https://www.guidepointsecurity.com/supernova-solarwinds-net-webshell-analysis/
 https://www.hackers-arise.com/post/2016/06/20/covering-your-bash-shell-tracks-antiforensics
+https://www.hackingarticles.in/defense-evasion-windows-event-logging-t1562-002/
 https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 https://www.hackingarticles.in/rdp-session-hijacking-with-tscon/
 https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/
@@ -4102,6 +4115,7 @@ https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13
 https://www.virustotal.com/gui/file/0e2854753d17b1bb534de8e765d5813c9fb584a745978b3d92bc6ca78e3e7735/relations
 https://www.virustotal.com/gui/file/13828b390d5f58b002e808c2c4f02fdd920e236cc8015480fa33b6c1a9300e31
 https://www.virustotal.com/gui/file/13ae8bfbc02254b389ab052aba5e1ba169b16a399d9bc4cb7414c4a73cd7dc78/detection
+https://www.virustotal.com/gui/file/14d886517fff2cc8955844b252c985ab59f2f95b2849002778f03a8f07eb8aef
 https://www.virustotal.com/gui/file/15b57c1b68cd6ce3c161042e0f3be9f32d78151fe95461eedc59a79fc222c7ed
 https://www.virustotal.com/gui/file/16bafdf741e7a13137c489f3c8db1334f171c7cb13b62617d691b0a64783cc48/behavior
 https://www.virustotal.com/gui/file/1c547a064494a35d6b5e6b459de183ab2720a22725e082bed6f6629211f7abc1/behavior
@@ -4241,6 +4255,7 @@ https://www.zscaler.com/blogs/security-research/unintentional-leak-glimpse-attac
 https://x.com/_st0pp3r_/status/1742203752361128162?s=20
 https://x.com/cyb3rops/status/1862406110365245506
 https://x.com/defusedcyber/status/1971492272966598683
+https://x.com/Max_Mal_/status/1826179497084739829
 https://x.com/nas_bench/status/1868639048484425963
 https://x.com/NullSecurityX/status/1937444064867029179
 https://x.com/russianpanda9xx/status/1940831134759506029
